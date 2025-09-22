@@ -122,17 +122,24 @@ Only \$385,000 in claims have been reported so far (after 12 months). However, b
 
 #### 📌 Ultimate Loss Formula
 
-Ultimate Loss = Latest Reported Claims * CDF
+Projecting the Ultimate Loss
+The ultimate loss is projected by applying the Cumulative Development Factor (CDF) to the most recent claims data.
 
+Formula:
+Ultimate Loss = Latest Reported Claims × CDF
+
+Calculation:
 Latest Reported Claims: $385,000
 Cumulative Development Factor (CDF): 2.35
-Projected Ultimate Loss: 385,000×2.35=905,000
+Projected Ultimate Loss: $385,000 × 2.35 = $905,000
 
 📌 IBNR (Incurred But Not Reported) Formula
 
+Formula:
 IBNR = Ultimate Loss - Reported Claims
 
-IBNR = 905,000 − 385,000 = 520,000
+Calculation:
+IBNR Reserve: $905,000 - $385,000 = $520,000
 
 ##### 📋 Final Output Snapshot – Accident Year 2024
 
