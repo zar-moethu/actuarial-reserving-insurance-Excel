@@ -11,16 +11,8 @@ This amount of money is known as a loss reserve.
 - If it’s too large, the company holds capital inefficiently, being unable to meet future obligations.
 - If the reserve is too small, the company risks insolvency, impacting profitability and investment potential.
 
+This project demonstrates the application of a core actuarial reserving technique — the **Chain-Ladder Method** to estimate the required loss reserve for the **2024 accident year**. It calculates the **Ultimate Loss** and the resulting **IBNR (Incurred But Not Reported)** amount based on historical development patterns. The line of business for this model is **Home Insurance**, and all calculations are performed using **Microsoft Excel**.
 
-  You're right. "Ultimate loss" and "IBNR" are the calculations, and "estimating the loss reserve" is the business goal.
-
-Here is a final sentence that connects all the ideas together. This is the most accurate and professional way to describe your project.
-
-This project demonstrates the Chain-Ladder Method by calculating the ultimate loss and resulting IBNR (Incurred But Not Reported) amount, in order to estimate the required loss reserve for the 2024 accident year.
-
-This project demonstrates the application of a fundamental actuarial reserving method, the Chain-Ladder Method, by calculating the ultimate loss and resulting IBNR (Incurred But Not Reported) amount, in order to estimate the required loss reserve for the 2024 accident year. The line of business for this model is Home Insurance , with all calculations performed in Microsoft Excel.
-
-This project demonstrates the Chain-Ladder Method, a fundamental actuarial reserving method used to estimate ultimate losses and the required IBNR (Incurred But Not Reported) reserve. The analysis is applied to Homeowner Insurance portfolio within general insurance market, with all calculations performed in Microsoft Excel.
 
 ### 📊 2. Data Source
 
