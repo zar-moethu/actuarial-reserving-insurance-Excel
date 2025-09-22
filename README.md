@@ -25,7 +25,7 @@ The raw data, which would typically be extracted from a company's database, is a
 
 
 #### 📁 Key Fields in the Dataset:
-- **Line of Business**: Homeowner's Insurance  
+- **Line of Business**: Homeowner's Insurance
 - **Accident Year**: Year the insured loss event occurred  
 - **Development Age**: Age of the claim in months (e.g., 12, 24, 36)  
 - **Claim Size**: Transaction amount reported at each development point
