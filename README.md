@@ -18,7 +18,7 @@ This project demonstrates the application of a fundamental actuarial reserving m
 The data used in this project is a simulated dataset representing a realistic portfolio of homeowner's insurance claims (Line of Business H3).
 The raw data, which would typically be extracted from a company's database, is a detailed claims listing containing:
 
-#### 🧾 2.1 Raw Dataset Table Snapshot
+##### 🧾 2.1 Raw Dataset Table Snapshot
 <p align="center">
  <img width="261" height="330" alt="Screenshot 2025-09-22 at 21 18 26" src="https://github.com/user-attachments/assets/35f50bae-a0af-4366-a97a-abbe1f9eb29e" />
 </p>
@@ -43,7 +43,7 @@ The Chain-Ladder Method was used to project the ultimate losses. This is a stand
   - Development Age (column)
   - Each cell shows the **cumulative reported claims** as of that development month.
 
-  #### Chain-Ladder Method	Table Snapshot
+  ##### Chain-Ladder Method	Table Snapshot
 
 <p align="center">
 <img width="502" height="155" alt="image" src="https://github.com/user-attachments/assets/24c96d27-dff9-4454-bc98-793b9572573d" />
@@ -76,7 +76,7 @@ The arithmetic mean of the most recent three development factors for each period
 **3-Year Weighted Average**
 Averages that give more weight to years with larger claim volumes, which can produce more stable and responsive estimates.
 
-#### ✅ Calculated Averaged Development Factors Table Snapshot
+##### Calculated Averaged Development Factors Table Snapshot
 
 <p align="center">
 <img width="486" height="75" alt="Screenshot 2025-09-22 at 21 57 44" src="https://github.com/user-attachments/assets/3fb7dfa4-91ab-4185-841f-a45bce6e550b" />
@@ -94,7 +94,7 @@ We then calculate the Cumulative Development Factor (CDF) for each age which tel
 
 📌 CDF = LDF₁ × LDF₂ × ... × LDFₙ
 
-#### 📊 Selected Development Factors & CDF Table Snapsot
+##### 📊 Selected Development Factors & CDF Table Snapsot
 <p align="center"> <img width="479" height="46" alt="Screenshot 2025-09-22 at 22 26 56" src="https://github.com/user-attachments/assets/6641df18-3312-42e7-859c-56ce46d0da60" /> </p>
 
 
@@ -102,7 +102,7 @@ We then calculate the Cumulative Development Factor (CDF) for each age which tel
 - **Selected LDFs** show how much claims are expected to grow from one development period to the next (e.g. from month 12 to 24).
 - **CDFs** show the total expected development from a specific age to the final ultimate claim value — in other words, how much more development is expected from that point onward.
 
-#### 💰 Step 5: Final Results & Business Implication
+####  🔍 Step 5: Results
 
 The final step is to use the calculated factors to project the ultimate loss for the most recent accident year and determine the required reserve. This provides the key business insight for the analysis.
 
@@ -115,7 +115,7 @@ The ultimate loss and the required reserve are calculated as follows:
 - Projected Ultimate Loss: $385,000 × 2.35 = $905,000
 - Required Reserve (IBNR): $905,000 - $385,000 = $520,000
 
-#### 📋 Final Output Snapshot – Accident Year 2024
+##### 📋 Final Output Snapshot – Accident Year 2024
 
 The table below summarises the Chain-Ladder Method output for accident year 2024, based on historical claim development patterns.
 
@@ -130,7 +130,7 @@ The table below summarises the Chain-Ladder Method output for accident year 2024
 
 
 
-#### 🔍 6. What This Means for the Business
+#### 💰 6. What This Means for the Business
 
 While only $385,000 in claims have been reported for the 2024 accident year so far, the analysis projects that the total final cost—the Ultimate Loss—will be $905,000.
 The difference of $520,000 is the IBNR (Incurred But Not Reported) reserve. This is the crucial number for the business. By setting aside this reserve, the insurer ensures it has adequate funds to cover all future payments related to 2024. 
