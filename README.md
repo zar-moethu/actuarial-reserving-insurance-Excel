@@ -129,9 +129,10 @@ Formula:
 Ultimate Loss = Latest Reported Claims × CDF
 
 Calculation:
-Latest Reported Claims: $385,000
-Cumulative Development Factor (CDF): 2.35
-Projected Ultimate Loss: $385,000 × 2.35 = $905,000
+
+- Latest Reported Claims: $385,000
+- Cumulative Development Factor (CDF): 2.35
+- Projected Ultimate Loss: $385,000 × 2.35 = $905,000
 
 📌 IBNR (Incurred But Not Reported) Formula
 
