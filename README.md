@@ -132,8 +132,7 @@ Projected Ultimate Loss: 385,000×2.35=905,000
 
 IBNR = Ultimate Loss - Reported Claims
 
-IBNR =
-905,000 − 385,000 = 520,000
+IBNR = 905,000 − 385,000 = 520,000
 
 ##### 📋 Final Output Snapshot – Accident Year 2024
 
