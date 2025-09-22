@@ -119,8 +119,8 @@ The ultimate loss and the required reserve are calculated as follows:
 
 The table below summarises the Chain-Ladder Method output for accident year 2024, based on historical claim development patterns.
 
-<p align="center"> <img width="612" height="170" alt="Chain-Ladder Output 2024" src="https://github.com/user-attachments/assets/51cb45a1-a09f-46cc-878d-405931a4771a" /> </p>
-
+<p align="center"> <img width="584" height="166" alt="Screenshot 2025-09-23 at 08 20 10" src="https://github.com/user-attachments/assets/b23fb006-f4be-435c-8a57-8eb018488f3c" />
+ </p>
 
 #### Interpretation:
 
