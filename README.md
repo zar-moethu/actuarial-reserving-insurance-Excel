@@ -144,15 +144,20 @@ This supports:
 This forward-looking approach ensures the insurer is financially prepared for the full cost of the accident year, rather than reacting only to claims as they are reported. It is this data-driven estimate that is critical for ensuring the company's financial stability.
 
 
-
 📂 **Project Files**
 
-- *Power BI Dashboard File* (Then, Click on View Raw):  
-  [WeatherDashboard.pbix](https://github.com/zar-moethu/weather-AQI-dashboard-nz-powerbi/blob/main/WeatherReport%20(VF).pbix)
-- *Dashboard Overview (PDF Preview)*:  
-  [Dashboard Overview (PDF)](https://github.com/zar-moethu/weather-AQI-dashboard-nz-powerbi/blob/main/Dashboard%20Overview.pdf)
+You can download the Excel file used for this project below:
 
-  ⚠️ **Disclaimer:**
+🔗 [**Calculation & Data.xlsx**](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/blob/main/Calculation%20%26%20Data.xlsx)
 
+### 🙌 Analyst's Note
+
+- I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions, and collaboration on this actuarial projection project.
+
+- Feel free to download, explore, and adapt the Excel workbook or development steps for your own learning or analytical purposes  whether you're studying loss reserving techniques or applying them in practice.
+
+📬 If you have feedback or would like to collaborate on future projects, don’t hesitate to reach out.
+
+⚠️ **Disclaimer**: This analysis and dataset are intended for educational and demonstration purposes only not for business or  operational or financial reporting use.
 
 
