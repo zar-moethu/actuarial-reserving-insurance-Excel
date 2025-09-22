@@ -10,8 +10,17 @@ A key question for any insurer is:
 This amount of money is known as a loss reserve.
 - If it’s too large, the company holds capital inefficiently, being unable to meet future obligations.
 - If the reserve is too small, the company risks insolvency, impacting profitability and investment potential.
-  
-This project demonstrates the application of a fundamental actuarial reserving method, the Chain-Ladder Method, to estimate the required loss reserve for a simulated Home Insurance portfolio within general insurance market.
+
+
+  You're right. "Ultimate loss" and "IBNR" are the calculations, and "estimating the loss reserve" is the business goal.
+
+Here is a final sentence that connects all the ideas together. This is the most accurate and professional way to describe your project.
+
+This project demonstrates the Chain-Ladder Method by calculating the ultimate loss and resulting IBNR (Incurred But Not Reported) amount, in order to estimate the required loss reserve for the 2024 accident year.
+
+This project demonstrates the application of a fundamental actuarial reserving method, the Chain-Ladder Method, by calculating the ultimate loss and resulting IBNR (Incurred But Not Reported) amount, in order to estimate the required loss reserve for the 2024 accident year. The line of business for this model is Home Insurance , with all calculations performed in Microsoft Excel.
+
+This project demonstrates the Chain-Ladder Method, a fundamental actuarial reserving method used to estimate ultimate losses and the required IBNR (Incurred But Not Reported) reserve. The analysis is applied to Homeowner Insurance portfolio within general insurance market, with all calculations performed in Microsoft Excel.
 
 ### 📊 2. Data Source
 
@@ -105,16 +114,26 @@ We then calculate the Cumulative Development Factor (CDF) for each age which tel
 
 ####  🔍 Step 5: Results
 
-The final step is to use the calculated factors to project the ultimate loss for the most recent accident year and determine the required reserve. This provides the key business insight for the analysis.
+The final step is to apply the selected development factor to project the **ultimate loss** for the most recent accident year (2024) and calculate the required **IBNR reserve**. This gives the key business insight needed for reserving.
 
-#### Calculation for Accident Year 2024: 
+### 📊 Calculation for Accident Year 2024
 
-The ultimate loss and the required reserve are calculated as follows:
+Only \$385,000 in claims have been reported so far (after 12 months). However, based on historical development patterns, more claims are expected to emerge. Using the Chain-Ladder method:
 
-- Latest Reported Claims (at 12 months): $385,000
-- Cumulative Development Factor (CDF): 2.35
-- Projected Ultimate Loss: $385,000 × 2.35 = $905,000
-- Required Reserve (IBNR): $905,000 - $385,000 = $520,000
+#### 📌 Ultimate Loss Formula
+
+Ultimate Loss = Latest Reported Claims * CDF
+
+Latest Reported Claims: $385,000
+Cumulative Development Factor (CDF): 2.35
+Projected Ultimate Loss: 385,000×2.35=905,000
+
+📌 IBNR (Incurred But Not Reported) Formula
+
+IBNR = Ultimate Loss - Reported Claims
+
+IBNR =
+905,000 − 385,000 = 520,000
 
 ##### 📋 Final Output Snapshot – Accident Year 2024
 
@@ -127,7 +146,7 @@ The table below summarises the Chain-Ladder Method output for accident year 2024
 
 - The results show that while only $385,000 in claims have been reported for the 2024 accident year so far, the total expected cost, or Ultimate Loss, is projected to be $905,000.
 
-- The difference, $520,000, is the required IBNR (Incurred But Not Reported) reserve. This is the amount the insurer must hold to cover the future development of known claims and the emergence of claims that have already occurred but have not yet been reported.
+- The IBNR reserve of $520,000 is the amount the insurer must hold to account for claims that have already occurred but have not yet been reported.
 
 #### 💰 6. What This Means for the Business
 
@@ -145,11 +164,11 @@ This forward-looking approach ensures the insurer is financially prepared for th
 
 📂 **Project Files**
 
-You can download the Excel file used for this project below:
+You can download the Excel file below which includes the calculations and data used in the Chain-Ladder reserving analysis:
 
-[Click here to download the Excel workbook (Calculation & Data.xlsx)](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/blob/main/Calculation%20%26%20Data.xlsx)
+🔽 **[Click here to download the Excel workbook (Calculation & Data.xlsx)](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/raw/main/Calculation%20%26%20Data.xlsx)**
 
-This file includes all the calculations and data used in the Chain-Ladder reserving analysis.
+
 
 **🙌 Analyst's Note**
 
