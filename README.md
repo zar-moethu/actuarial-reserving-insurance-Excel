@@ -102,53 +102,46 @@ We then calculate the Cumulative Development Factor (CDF) for each age which tel
 - **Selected LDFs** show how much claims are expected to grow from one development period to the next (e.g. from month 12 to 24).
 - **CDFs** show the total expected development from a specific age to the final ultimate claim value — in other words, how much more development is expected from that point onward.
 
-### 💰 Step 5: Project Ultimate Losses
+#### 💰 Step 5: Final Results & Business Implication
 
-In this project, we calculate the ultimate loss for accident year 2024. This is done by taking the most recent cumulative reported claim amount and multiplying it by the corresponding Cumulative Development Factor (CDF).
+The final step is to use the calculated factors to project the ultimate loss for the most recent accident year and determine the required reserve. This provides the key business insight for the analysis.
 
-The ultimate loss represents the total expected cost of all claims from 2024, including both the claims already reported and those that may have occurred but are not yet reported. So far, only $385,000 of claims have been reported (after 12 months), but additional claims are expected to emerge over time.
+#### Calculation for Accident Year 2024: 
 
-**Formula:**  
-📌 *Ultimate Loss = Latest Reported Claims × CDF*
+The ultimate loss and the required reserve are calculated as follows:
 
+- Latest Reported Claims (at 12 months): $385,000
+- Cumulative Development Factor (CDF): 2.35
+- Projected Ultimate Loss: $385,000 × 2.35 = $905,000
+- Required Reserve (IBNR): $905,000 - $385,000 = $520,000
 
-#### 📊 Calculation for Accident Year 2024:
+#### 📋 Final Output Snapshot – Accident Year 2024
 
-- **Latest Reported Claims (at 12 months)** = \$385,000  
-- **CDF (from 12 months to ultimate)** = 2.35  
-- **Projected Ultimate Loss** = \$385,000 × 2.35 = **\$905,000**
+The table below summarises the Chain-Ladder Method output for accident year 2024, based on historical claim development patterns.
 
-This means the Ultimate Loss column  shows the total expected cost of all claims for 2024 - **\$905,000**
-
-### 🧾 Calculate IBNR (Incurred But Not Reported)
-
-Once we have the ultimate loss estimate, we can calculate the IBNR reserve, the portion of incurred losses that have occurred but are not yet reported.
-
-**Formula:**  
-📌 *IBNR = Ultimate Loss − Latest Reported Claims*
-
-#### 🧮 IBNR Reserve for 2024:
-
-- **IBNR** = \$905,000 − \$385,000 = **\$520,000**
-
-This means the insurer should hold **\$520,000** in reserve for claims from accident year 2024 that have occurred but have not yet been reported.
-
-#### 📋 Final Output Snapshot – Accident Year 2024 (shown in red)
-
-<p align="center"> <img width="612" height="170" alt="Chain-Ladder Final Output for 2024" src="https://github.com/user-attachments/assets/51cb45a1-a09f-46cc-878d-405931a4771a" /> </p>
+<p align="center"> <img width="612" height="170" alt="Chain-Ladder Output 2024" src="https://github.com/user-attachments/assets/51cb45a1-a09f-46cc-878d-405931a4771a" /> </p>
 
 
- ### 🧠 Step 6: What Does This Mean for the Business?
+#### Interpretation:
 
-As of 12 months into accident year 2024, only $385,000 in claims have been reported. However, based on historical development patterns, the total ultimate loss is projected to be $905,000. This includes:
+- The results show that while only $385,000 in claims have been reported for the 2024 accident year so far, the total expected cost, or Ultimate Loss, is projected to be $905,000.
 
-- Reported claims: $385,000
-- Claims that have occurred but not yet been reported (IBNR): $520,000
+- The difference, $520,000, is the required IBNR (Incurred But Not Reported) reserve. This is the amount the insurer must hold to cover the future development of known claims and the emergence of claims that have already occurred but have not yet been reported.
 
-This projection means the insurer should expect additional claims to be reported over time that relate to events that have already occurred in 2024.
 
-By recognising the IBNR, the insurer can ensure sufficient reserves are held to meet future obligations  even if those claims have not yet been reported. This supports sound financial planning, regulatory compliance, and a more accurate picture of the insurer’s total liabilities.
 
+#### 🔍 6. What This Means for the Business
+
+While only $385,000 in claims have been reported for the 2024 accident year so far, the analysis projects that the total final cost—the Ultimate Loss—will be $905,000.
+The difference of $520,000 is the IBNR (Incurred But Not Reported) reserve. This is the crucial number for the business. By setting aside this reserve, the insurer ensures it has adequate funds to cover all future payments related to 2024. 
+
+This supports:
+
+- Financial Stability: Guaranteeing all future claims can be paid.
+- Regulatory Compliance: Meeting legally required reserve levels.
+- Accurate Planning: Understanding the full financial picture of past events, not just what has been reported so far.
+
+This forward-looking approach ensures the insurer is financially prepared for the full cost of the accident year, rather than reacting only to claims as they are reported. It is this data-driven estimate that is critical for ensuring the company's financial stability.
 
 
 
