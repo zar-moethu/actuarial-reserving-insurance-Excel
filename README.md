@@ -11,7 +11,7 @@ This amount of money is known as a loss reserve.
 - If it’s too large, the company holds capital inefficiently, being unable to meet future obligations.
 - If the reserve is too small, the company risks insolvency, impacting profitability and investment potential.
   
-This project demonstrates the application of a fundamental actuarial reserving method, the Chain-Ladder Method, to estimate the required loss reserve for a portfolio of claims using historical claims development data.
+This project demonstrates the application of a fundamental actuarial reserving method, the Chain-Ladder Method, to estimate the required loss reserve for a simulated Home Insurance portfolio within general insurance market.
 
 ### 📊 2. Data Source
 
@@ -20,8 +20,9 @@ The raw data, which would typically be extracted from a company's database, is a
 
 ##### 🧾 2.1 Raw Dataset Table Snapshot
 <p align="center">
- <img width="261" height="330" alt="Screenshot 2025-09-22 at 21 18 26" src="https://github.com/user-attachments/assets/35f50bae-a0af-4366-a97a-abbe1f9eb29e" />
+ <img width="267" height="340" alt="Screenshot 2025-09-23 at 08 34 04" src="https://github.com/user-attachments/assets/9f1d6a33-724b-41e8-a763-28ff474fdcd9" />
 </p>
+
 
 
 #### 📁 Key Fields in the Dataset:
