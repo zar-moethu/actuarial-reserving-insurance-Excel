@@ -148,16 +148,20 @@ This forward-looking approach ensures the insurer is financially prepared for th
 
 You can download the Excel file used for this project below:
 
-🔗 [**Calculation & Data.xlsx**](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/blob/main/Calculation%20%26%20Data.xlsx)
+[Click here to download the Excel workbook (Calculation & Data.xlsx)](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/raw/main/Calculation%20%26%20Data.xlsx)
 
-### 🙌 Analyst's Note
+This file includes all the calculations and data used in the Chain-Ladder reserving analysis.
 
-- I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions, and collaboration on this actuarial projection project.
+**🙌 Analyst's Note**
 
-- Feel free to download, explore, and adapt the Excel workbook or development steps for your own learning or analytical purposes  whether you're studying loss reserving techniques or applying them in practice.
+I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions, and collaboration on this actuarial projection project.
+
+Feel free to download, explore, and adapt the Excel workbook or development steps for your own learning or analytical purposes  whether you're studying loss reserving techniques or applying them in practice.
 
 📬 If you have feedback or would like to collaborate on future projects, don’t hesitate to reach out.
 
-⚠️ **Disclaimer**: This analysis and dataset are intended for educational and demonstration purposes only not for business or  operational or financial reporting use.
+⚠️ **Disclaimer**
+
+This analysis and dataset are intended for educational and demonstration purposes only not for business or  operational or financial reporting use.
 
 
