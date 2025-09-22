@@ -104,18 +104,13 @@ We then calculate the Cumulative Development Factor (CDF) for each age which tel
 - **Selected LDFs** show how much claims are expected to grow from one development period to the next (e.g. from month 12 to 24).
 - **CDFs** show the total expected development from a specific age to the final ultimate claim value — in other words, how much more development is expected from that point onward.
 
-####  🔍 Step 5: Results
+####  🔍 Step 5: Calculation and Results for Accident Year 2024
 
 The final step is to apply the selected development factor to project the **ultimate loss** for the most recent accident year (2024) and calculate the required **IBNR reserve**. This gives the key business insight needed for reserving.
 
-### 📊 Calculation for Accident Year 2024
-
 Only \$385,000 in claims have been reported so far (after 12 months). However, based on historical development patterns, more claims are expected to emerge. Using the Chain-Ladder method:
 
-#### 📌 Ultimate Loss Formula
-
-Projecting the Ultimate Loss
-The ultimate loss is projected by applying the Cumulative Development Factor (CDF) to the most recent claims data.
+##### 📌 Ultimate Loss Formula
 
 Formula:
 Ultimate Loss = Latest Reported Claims × CDF
@@ -126,7 +121,7 @@ Calculation:
 - Cumulative Development Factor (CDF): 2.35
 - Projected Ultimate Loss: $385,000 × 2.35 = $905,000
 
-📌 IBNR (Incurred But Not Reported) Formula
+##### 📌 IBNR (Incurred But Not Reported) Formula
 
 Formula:
 IBNR = Ultimate Loss - Reported Claims
