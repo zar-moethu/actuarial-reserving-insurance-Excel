@@ -129,8 +129,6 @@ The table below summarises the Chain-Ladder Method output for accident year 2024
 
 - The difference, $520,000, is the required IBNR (Incurred But Not Reported) reserve. This is the amount the insurer must hold to cover the future development of known claims and the emergence of claims that have already occurred but have not yet been reported.
 
-
-
 #### 💰 6. What This Means for the Business
 
 While only $385,000 in claims have been reported for the 2024 accident year so far, the analysis projects that the total final cost—the Ultimate Loss—will be $905,000.
@@ -149,7 +147,7 @@ This forward-looking approach ensures the insurer is financially prepared for th
 
 You can download the Excel file used for this project below:
 
-[Click here to download the Excel workbook (Calculation & Data.xlsx)](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/raw/main/Calculation%20%26%20Data.xlsx)
+[Click here to download the Excel workbook (Calculation & Data.xlsx)](https://github.com/zar-moethu/actuarial-reserving-insurance-Excel/blob/main/Calculation%20%26%20Data.xlsx)
 
 This file includes all the calculations and data used in the Chain-Ladder reserving analysis.
 
