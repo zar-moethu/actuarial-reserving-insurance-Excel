@@ -26,7 +26,7 @@ The raw data, which would typically be extracted from a company's database, is a
 
 
 
-#### 📁 Key Fields in the Dataset:
+##### 📁 Key Fields in the Dataset:
 - **Line of Business**: Homeowner's Insurance
 - **Accident Year**: Year the insured loss event occurred  
 - **Development Age**: Age of the claim in months (e.g., 12, 24, 36)  
@@ -100,7 +100,7 @@ We then calculate the Cumulative Development Factor (CDF) for each age which tel
 <p align="center"> <img width="479" height="46" alt="Screenshot 2025-09-22 at 22 26 56" src="https://github.com/user-attachments/assets/6641df18-3312-42e7-859c-56ce46d0da60" /> </p>
 
 
-#### 📁 Key Fields in the above table:
+##### 📁 Key Fields in the above table:
 - **Selected LDFs** show how much claims are expected to grow from one development period to the next (e.g. from month 12 to 24).
 - **CDFs** show the total expected development from a specific age to the final ultimate claim value — in other words, how much more development is expected from that point onward.
 
