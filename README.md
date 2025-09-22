@@ -32,3 +32,51 @@ The raw data, which would typically be extracted from a company's database, is a
 
 This raw data was aggregated to produce the Cumulative Reported Claims Triangle used in this analysis.
 
+### ⚙️ 3. Methodology
+
+The Chain-Ladder Method was used to project the ultimate losses. This is a standard industry technique that uses historical data to predict future development. The process involved several key steps:
+
+#### 📐 Step 1: Construct the Cumulative Reported Claims Triangle
+
+- The raw claim-level data is **aggregated** by:
+  - Accident Year (row)
+  - Development Age (column)
+  - Each cell shows the **cumulative reported claims** as of that development month.
+
+  #### Chain-Ladder Method	Snapshot
+
+<p align="center">
+<img width="502" height="155" alt="image" src="https://github.com/user-attachments/assets/24c96d27-dff9-4454-bc98-793b9572573d" />
+</p>
+
+### 📈 Step 2: Calculate Age-to-Age Development Factors
+
+### 📈 Step 2: Calculate Age-to-Age Development Factors
+
+Age-to-age development factors were calculated to understand **how much the total claims for a given accident year increased between two points in time**.
+
+The formula used is: Development Factor = Claims at later age / Claims at earlier age
+
+#### 📊 Development Factors Snapshot
+
+<p align="center">
+  <img width="502" height="145" alt="image" src="https://github.com/user-attachments/assets/11299c52-0a30-4ef2-b168-b45a6689f2b6" />
+</p>
+
+As shown in the above snapshot, development factors are calculated for each accident year and each development period by dividing the claims reported at the later age by the claims reported at the earlier age.
+
+For example, a development factor of **1.91** means that the claims increased by approximately **90%** between month 12 and month 24.
+
+
+
+
+
+
+- Data Aggregation: The raw claims data was organized into a cumulative development triangle, showing how the total losses for each accident year have grown over time.
+- Calculate Development Factors: Age-to-age loss development factors (LDFs) were calculated to measure the historical growth pattern from one development period to the next.
+- Select Average Factors: A 3-Year Weighted Average was used to select the most appropriate LDFs for projection. This gives more weight to recent years with higher claim volumes, providing a stable and responsive estimate.
+- Project Ultimate Losses: The selected LDFs were used to project the current cumulative claims for incomplete accident years to their estimated final, or "ultimate," value.
+- Calculate IBNR Reserves: The final reserve was calculated by subtracting the latest reported claims from the projected ultimate loss. This reserve is also known as the IBNR (Incurred But Not Reported) reserve.
+
+
+
