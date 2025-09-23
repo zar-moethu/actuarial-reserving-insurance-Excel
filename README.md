@@ -174,6 +174,6 @@ Feel free to download, explore, and adapt the Excel workbook or development step
 
 ⚠️ **Disclaimer**
 
-This analysis and dataset are intended for educational and demonstration purposes only not for business or  operational or financial reporting use.
+This analysis and dataset are intended for educational and demonstration purposes only but not for business, operational or financial reporting use.
 
 
