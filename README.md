@@ -16,7 +16,7 @@ This project demonstrates the application of a core actuarial reserving techniqu
 
 ### 📊 2. Data Source
 
-The data used in this project is a simulated dataset representing a realistic portfolio of homeowner's insurance claims (Line of Business H3).
+The data used in this project is a simulated dataset representing a realistic portfolio of Home insurance claims (Line of Business H3).
 The raw data, which would typically be extracted from a company's database, is a detailed claims listing containing:
 
 ##### 🧾 2.1 Raw Dataset Table Snapshot
