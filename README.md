@@ -144,7 +144,7 @@ The table below summarises the Chain-Ladder Method output for accident year 2024
 
 #### 💰 6. What This Means for the Business
 
-While only $385,000 in claims have been reported for the 2024 accident year so far, the analysis projects that the total final cost—the Ultimate Loss—will be $905,000.
+While only $385,000 in claims have been reported for the 2024 accident year so far, the analysis projects that the total final cost, the Ultimate Loss will be $905,000.
 The difference of $520,000 is the IBNR (Incurred But Not Reported) reserve. This is the crucial number for the business. By setting aside this reserve, the insurer ensures it has adequate funds to cover all future payments related to 2024. 
 
 This supports:
